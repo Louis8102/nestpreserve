@@ -1,0 +1,23 @@
+v 3
+d NESTPRESERVE: Stack-based nested dataset preservation and restoration
+d
+d Distribution-Date: 20260719
+d Author: Fan Lin
+d Requires: Stata version 16.0
+d License: MIT
+f nestpreserve.ado
+f _nestpreserve_manifest.ado
+f nestrestore.ado
+f neststatus.ado
+f nestclear.ado
+f nestrecover.ado
+f nesttransaction.ado
+f nestpreserve.sthlp
+f nestrestore.sthlp
+f neststatus.sthlp
+f nestclear.sthlp
+f nestrecover.sthlp
+f nesttransaction.sthlp
+f README.md
+f CHANGELOG.md
+f LICENSE
